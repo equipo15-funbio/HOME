@@ -513,7 +513,8 @@
               "text-align": "right"
             },
             ".mbr-section-subtitle": {
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#fafafa"
             }
           },
           "_name": "header3",
